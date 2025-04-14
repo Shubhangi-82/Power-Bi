@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates a **Bank Loan Dashboard** created using **Power BI** to visualize and analyze loan approval data. The dashboard provides insights into various loan application attributes and helps bank decision-makers understand patterns, trends, and make data-driven decisions regarding loan approvals.
 
+![Image](https://github.com/user-attachments/assets/45204e3e-1851-4809-a3c3-dcfe7ea9e96f)
+
+
 The dashboard provides interactive visualizations, including:
 - Loan approval statistics
 - Applicant demographics
